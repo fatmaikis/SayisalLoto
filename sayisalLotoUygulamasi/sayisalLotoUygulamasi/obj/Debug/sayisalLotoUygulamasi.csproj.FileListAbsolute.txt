@@ -1,0 +1,11 @@
+D:\KursIskur\sayisalLotoUygulamasi\sayisalLotoUygulamasi\bin\Debug\sayisalLotoUygulamasi.exe.config
+D:\KursIskur\sayisalLotoUygulamasi\sayisalLotoUygulamasi\bin\Debug\sayisalLotoUygulamasi.exe
+D:\KursIskur\sayisalLotoUygulamasi\sayisalLotoUygulamasi\bin\Debug\sayisalLotoUygulamasi.pdb
+D:\KursIskur\sayisalLotoUygulamasi\sayisalLotoUygulamasi\obj\Debug\sayisalLotoUygulamasi.csproj.AssemblyReference.cache
+D:\KursIskur\sayisalLotoUygulamasi\sayisalLotoUygulamasi\obj\Debug\sayisalLotoUygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\KursIskur\sayisalLotoUygulamasi\sayisalLotoUygulamasi\obj\Debug\sayisalLotoUygulamasi.Form1.resources
+D:\KursIskur\sayisalLotoUygulamasi\sayisalLotoUygulamasi\obj\Debug\sayisalLotoUygulamasi.Properties.Resources.resources
+D:\KursIskur\sayisalLotoUygulamasi\sayisalLotoUygulamasi\obj\Debug\sayisalLotoUygulamasi.csproj.GenerateResource.cache
+D:\KursIskur\sayisalLotoUygulamasi\sayisalLotoUygulamasi\obj\Debug\sayisalLotoUygulamasi.csproj.CoreCompileInputs.cache
+D:\KursIskur\sayisalLotoUygulamasi\sayisalLotoUygulamasi\obj\Debug\sayisalLotoUygulamasi.exe
+D:\KursIskur\sayisalLotoUygulamasi\sayisalLotoUygulamasi\obj\Debug\sayisalLotoUygulamasi.pdb
